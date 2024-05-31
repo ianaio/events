@@ -13,10 +13,10 @@
     <span> | </span>
     <a href="https://github.com/rustwasm/ianaio/blob/master/CONTRIBUTING.md">Contributing</a>
     <span> | </span>
-    <a href="https://discordapp.com/channels/442252698964721669/443151097398296587">Chat</a>
+    <a href="https://discordapp.com/channels/44/44">Chat</a>
   </h3>
 
-  <sub>Built with 🦀🕸 by <a href="https://rustwasm.github.io/">The Rust and WebAssembly Working Group</a></sub>
+  <sub>Built with 🦀🕸 by <a href="https://rustwasm.iana.io/">IanaIO The Rust and WebAssembly Working Group</a></sub>
 </div>
 
 Using event listeners with [`web-sys`](https://crates.io/crates/web-sys) is hard! This crate
